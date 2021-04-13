@@ -10,7 +10,7 @@
 - 💬 Pregúntame sobre cada proyecto que ves en mi github o lo que ves que puedo ayudarte, me encanta ayudar.
 - 📫 Cómo contactarme: [twitter](https://twitter.com/jmfloreszazo) | [youtube](https://www.youtube.com/channel/UCloqpGxXA6j_YnxVGPcg_Zg) | [linkedin](https://www.linkedin.com/in/jmfloreszazo/)
 
-Siéntete libre de hablarme. Actualmente estoy en el programa Azure Heroes, me gusta trabajar con/para la comunidad.
+Actualmente estoy en el programa Azure Heroes, me gusta trabajar con/para la comunidad.
 
 <img align="center" alt="me" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/AzureHeroesBadgets.png"/>
 
