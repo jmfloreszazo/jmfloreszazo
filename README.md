@@ -14,8 +14,6 @@ Me encanta trabajar con Azure. Actualmente estoy en el programa Azure Heroes, me
 
 <img align="center" alt="me" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/AzureHeroesBadgets.png"/>
 
-Y algunos más ...
-
 No dudes en contactar conmigo.
 
 Un saludo.
