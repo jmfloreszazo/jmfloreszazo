@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm [jmfloreszazo!](https://www.linkedin.com/in/jmfloreszazo/)
 
-<img align="center" alt="me" src="./assets/banner.jpg"/>
+<img align="center" alt="me" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/banner.jpg"/>
 
 ### What i’m up to
 
