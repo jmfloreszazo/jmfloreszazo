@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm [jmfloreszazo!](https://www.linkedin.com/in/jmfloreszazo/)
 
+<img align="center" alt="me" src="./assets/banner.jpg"/>
+
 ### What i’m up to
 
 - 🔭 I’m currently working on ...
