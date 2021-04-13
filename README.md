@@ -1,6 +1,6 @@
-### Hi there 👋 I'm [jmfloreszazo!](https://www.linkedin.com/in/jmfloreszazo/)
+## Hi there 👋 I'm [jmfloreszazo!](https://www.linkedin.com/in/jmfloreszazo/)
 
-## What i’m up to
+### What i’m up to
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
