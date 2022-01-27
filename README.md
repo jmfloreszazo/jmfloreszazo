@@ -14,6 +14,10 @@ Me encanta trabajar con Azure. Actualmente estoy en el programa Azure Heroes, me
 
 <img align="center" alt="me" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/AzureHeroesBadgets.png"/>
 
+Tambien soy embajador de: 
+
+[![GitKraken shield](https://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken)](https://gitkraken.com/invite/sUviHf86)
+  
 No dudes en contactar conmigo.
 
 Un saludo.
