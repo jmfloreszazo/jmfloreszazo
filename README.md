@@ -29,11 +29,11 @@ Tambien soy embajador de:
 <img width="140px" alt="GithKraken Ambassador" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/gk.png"/>
 </P>
 
-[![GitKraken shield](https://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken)](https://gitkraken.com/invite/sUviHf86)
-
 <p align="center">
 <img width="140px" alt="Auth0 Ambassador" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/brand-evolution_logo_Auth0_horizontal_organge.png"/>
 </p">
+
+[![Azure Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-Azure-blue?style=plastic)](https://mvp.microsoft.com/es-es/PublicProfile/5004828?fullName=Jose%20Maria%20Flores%20Zazo) [![Azure Heroes](https://img.shields.io/badge/Azure%20Heroes-Content%20Hero%20Mentor%20Maker%20More-blue?style=plastic)](https://www.microsoft.com/skills/azureheroes) [![GitKraken shield](https://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken)](https://gitkraken.com/invite/sUviHf86) [![Auth0 shield](https://img.shields.io/badge/Auth0-Ambassador%20Program-orange?style=plastic&logo=Auth0)](https://auth0.com/ambassador-program/ambassadors)
 
 No dudes en contactar conmigo.
 
