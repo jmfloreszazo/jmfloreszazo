@@ -27,6 +27,7 @@ Tambien soy embajador de:
 
 <p align="center">
 <img width="140px" alt="GithKraken Ambassador" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/gk.png"/>
+[![GitKraken shield](https://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken)](https://gitkraken.com/invite/sUviHf86)
 </P>
 <p align="center">
 <img width="140px" alt="Auth0 Ambassador" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/brand-evolution_logo_Auth0_horizontal_organge.png"/>
