@@ -5,8 +5,8 @@
 ### Qué estoy haciendo?
 
 - 🔭 Actualmente trabajo @[Tokiota](https://twitter.com/tokiota_IT).
-- 🌱 He escrito un libro sobre Azure IoT y estoy creando un libro grauito al respecto, podras verlo en mi blog. Es gratis.
--  En estos momentos estoy escribiendo un libro sobre asincronía en .NET que espero tener para principios del 2023 y por supueto gratis.
+- 📚 He escrito un libro sobre Azure IoT y estoy creando un libro grauito al respecto, podras verlo en mi blog. Es gratis. Tambien podrás descargarte otros paper y ebook gratuitos.
+- 📖 En estos momentos estoy escribiendo un libro sobre asincronía en .NET que espero tener para principios del 2023 y por supueto gratis.
 - 👯 Busco colaborar con personas que tengan las mismas inquietudes que yo, consulta mi github y si crees que podemos colaborar no dudes en contactarme.
 - 💬 Pregúntame sobre cada proyecto que ves en mi github o lo que ves que puedo ayudarte, me encanta ayudar.
 - 📫 Cómo contactarme: [twitter](https://twitter.com/jmfloreszazo) | [youtube](https://www.youtube.com/channel/UCloqpGxXA6j_YnxVGPcg_Zg) | [linkedin](https://www.linkedin.com/in/jmfloreszazo/)
