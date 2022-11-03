@@ -13,18 +13,22 @@
 
 Me encanta trabajar con Azure. Actualmente estoy en el programa Azure Heroes, me gusta trabajar con/para la comunidad.
 
-<img align="center" width="140px" alt="me" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/AzureHeroesBadgets.png"/>
+<p align="center">
+<img align="center" width="240px" alt="me" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/AzureHeroesBadgets.png"/>
+</p>
 
 Y Microsoft MVP en Azure:
 
-<img align="center" width="140px" alt="Azure MVP" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png"/>
-
+<p align="center">
+<img width="180px" alt="Azure MVP" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png"/>
 </p>
 
 Tambien soy embajador de:
 
 <p align="center">
 <img width="140px" alt="GithKraken Ambassador" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/gk.png"/>
+</P>
+<p align="center">
 <img width="140px" alt="Auth0 Ambassador" src="https://github.com/jmfloreszazo/jmfloreszazo/blob/main/.assets/brand-evolution_logo_Auth0_horizontal_organge.png"/>
 </p">
 
