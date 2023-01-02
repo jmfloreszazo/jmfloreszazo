@@ -34,6 +34,10 @@ Tambien soy embajador de:
 </p">
 
 [![Azure Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-Azure-blue?style=square&logo=Microsoft)](https://mvp.microsoft.com/es-es/PublicProfile/5004828?fullName=Jose%20Maria%20Flores%20Zazo) [![Azure Heroes](https://img.shields.io/badge/Azure%20Heroes-Content%20Hero%2C%20Mentor%2C%20Maker%20%26%20More-blue?style=square&logo=Microsoft)](https://www.microsoft.com/skills/azureheroes) [![GitKraken shield](https://img.shields.io/badge/GitKraken-Ambassador-teal?style=square&logo=gitkraken)](https://gitkraken.com/invite/sUviHf86) [![Auth0 shield](https://img.shields.io/badge/Auth0-Ambassador-orange?style=square&logo=Auth0)](https://auth0.com/ambassador-program/ambassadors)
+  
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellowl?style=squaree&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 No dudes en contactar conmigo.
 
