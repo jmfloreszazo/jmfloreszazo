@@ -4,7 +4,7 @@
 
 ### Qué estoy haciendo?
 
-- 🔭 Actualmente trabajo @[Avanade][(https://twitter.com/tokiota_IT)](https://twitter.com/AvanadeSpain).
+- 🔭 Actualmente trabajo @[Avanade][(https://twitter.com/AvanadeSpain)].
 - 📚 He escrito un libro sobre Azure IoT y estoy creando un libro grauito al respecto, podras verlo en mi blog. Es gratis. Tambien podrás descargarte otros paper y ebook gratuitos.
 - 📖 En estos momentos estoy escribiendo un libro sobre asincronía en .NET que espero tener para principios del 2023 y por supueto gratis.
 - 👯 Busco colaborar con personas que tengan las mismas inquietudes que yo, consulta mi github y si crees que podemos colaborar no dudes en contactarme.
