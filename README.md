@@ -137,15 +137,17 @@ Mi filosofía: **investigación, formación y agilidad** sin comprometer la legi
 <div align="center">
 
 <a href="https://github.com/jmfloreszazo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jmfloreszazo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jmfloreszazo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmfloreszazo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfloreszazo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmfloreszazo&theme=tokyonight&hide_border=true)
+[![GitHub Stars](https://img.shields.io/github/stars/jmfloreszazo?style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/jmfloreszazo)
+[![GitHub Followers](https://img.shields.io/github/followers/jmfloreszazo?style=for-the-badge&logo=github&label=Followers)](https://github.com/jmfloreszazo)
+[![GitHub Repos](https://img.shields.io/badge/Repos-117+-181717?style=for-the-badge&logo=github)](https://github.com/jmfloreszazo?tab=repositories)
 
 </div>
 
