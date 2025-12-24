@@ -136,9 +136,16 @@ Mi filosofía: **investigación, formación y agilidad** sin comprometer la legi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmfloreszazo&show_icons=true&theme=tokyonight&hide_border=true)
+<a href="https://github.com/jmfloreszazo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jmfloreszazo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jmfloreszazo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfloreszazo&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmfloreszazo&theme=tokyonight&hide_border=true)
 
 </div>
 
